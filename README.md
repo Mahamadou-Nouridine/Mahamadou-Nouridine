@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Mahamadou Nouridine and you can call me Dino
+- 👋 Hello, I’m Mahamadou Nouridine, you can call me Dino
 - 👀 I’m interested in web and Machine learning development
 - 🌱 I am a MERN and RAILS full stack developer
 - 💞️ I’m looking to collaborate on your projects
