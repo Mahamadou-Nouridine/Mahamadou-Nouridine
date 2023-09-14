@@ -8,9 +8,9 @@ Mahamadou-Nouridine/Mahamadou-Nouridine is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahamadou-nouridine&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mahamadou-nouridine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahamadou-Nouridine&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahamadou-Nouridine&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahamadou-Nouridine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahamadou-nouridine&icon=0&color=0)](https://visitcount.itsvg.in)
