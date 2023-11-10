@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and Machine learning.
 - 🌱 I am a MERN and RAILS full stack developer.
 - 💞️ I’m looking to collaborate on your projects.
-- 📫 How to reach me mahamadounouridinem@gmail.com , Facebook: https://www.facebook.com/Nouridine2k and LinkedIn: https://www.linkedin.com/in/mahamadou-nouridine
+- 📫 How to reach me mahamadounouridinem@gmail.com , Facebook: https://www.facebook.com/Nouridine2k and LinkedIn: https://www.linkedin.com/in/mahamadou-nouridine.
 <!---
 Mahamadou-Nouridine/Mahamadou-Nouridine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
