@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahamadou-Nouridine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![committers.top badge](https://user-badge.committers.top/niger_private/USERNAME.svg)](https://user-badge.committers.top/niger_private/USERNAME)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamadou-nouridine&label=Profile%20views&color=0e75b6&style=flat" alt="mahamadou-nouridine" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
